@@ -3,7 +3,7 @@
 This project aims to bring all the resources mentioned in a closed Facebook groups named as "Study and Life in Germany (For Pakistani Students & Community)" and "Study and Life in Germany (For Pakistani Students & Community- Temporary)" together.
 
 
-## Type of Resources
+## Type of Resources / Menu
 * General
 * University list
 * Post-graduate (PHD) program
@@ -11,3 +11,8 @@ This project aims to bring all the resources mentioned in a closed Facebook grou
 * Undergraduate (Bachelors) program
 * Letter of Motivation / Statement of Purpose
 * Block Account
+  - Deutsche Bank
+  - Fintiba
+* Scholarships
+* Visa
+* Language requirements (IELTS / TOEFL)
